@@ -1,4 +1,4 @@
-# SampleAppForTesting
+# SampleFlaskAppForTesting
 Python Flask App for K8s Native Deployment
 
 ## Introduction 
